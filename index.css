@@ -361,7 +361,7 @@ body {
     padding-top: 15px;
 }
 
-.All-ads{
+.All-ads {
     display: flex;
     overflow-x: auto;
 }
@@ -379,18 +379,8 @@ body {
     background-repeat: no-repeat;
     width: 100%;
     border-radius: 20px;
-    height: 295px;
+    height: 300px;
     margin-bottom: 25px;
-
-}
-
-.All-ads2{
-    display: flex;
-    width: 98%;
-    height: 230px;
-    background-color: rgb(255, 255, 255);
-    margin: auto;
-    border-radius: 20px;
 }
 
 .ADsDiv4 .spanline2 span {
@@ -403,9 +393,31 @@ body {
     padding-top: 15px;
 }
 
-.All-ads2 .ads2 img {
-    width: 150px;
+.All-ads2 {
+    display: flex;
+    width: 98%;
     height: 230px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
     border-radius: 20px;
-    margin-left: 15px;
+}
+
+.All-ads2 .ads2 {
+    background-color: rgba(64, 64, 64, 0.104);
+    width: 278px;
+    margin-top: 10px;
+    height: 170px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.All-ads2 img {
+    width: 175px;
+    height: 170px;
+    margin-left: 52px; 
+}
+
+.All-ads2 .ads2 .ads-offer {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
 }
