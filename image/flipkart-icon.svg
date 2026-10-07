@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Transparent outside -->
+  <circle cx="24" cy="24" r="23" fill="#FFD600"/>
+
+  <!-- Blue f, extending all the way to the bottom of the yellow circle -->
+  <path fill="#2874F0" d="
+    M29.7 10.2
+    C24.3 10.2 21.0 13.2 20.3 18.5
+    L19.9 21.1
+    L12.5 23.0
+    L19.5 24.7
+    L11.8 26.7
+    L19.0 26.7
+    L17.0 47
+    L24.2 47
+    L26.2 26.7
+    L31.0 26.7
+    C33.3 26.7 34.5 24.9 34.6 22.3
+    L27.2 22.3
+    L27.7 19.5
+    C28.0 17.4 29.2 16.4 31.4 16.4
+    L34.3 16.4
+    L34.3 10.2
+    Z"/>
+</svg>
