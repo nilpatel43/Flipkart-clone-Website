@@ -490,7 +490,27 @@ body {
     font-weight: 600;
 }
 
-.ADsDiv4 .arrow .arrow2 {
+.ADsDiv6 {
+    background-image: url(ADs/ads/ads.1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 20px;
+    height: 330px;
+    margin-bottom: 25px;
+}
+
+.ADsDiv6 .spanline2 span {
+    display: block;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.ADsDiv6 .arrow .arrow2 {
     width: 40px;
     height: 25px;
     border-radius: 20px;
@@ -502,9 +522,102 @@ body {
     justify-content: center;
 }
 
-.ADsDiv4 .arrow .arrow2 span {
+.ADsDiv6 .arrow .arrow2 span {
     font-size: 30px;
     color: black;
     padding-bottom: 2px;
     font-weight: bold;
 }
+
+.ADsDiv7 .spanline4 {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.958);
+    font-size: 23px;
+    margin-bottom: 13px;
+    margin-top: 30px;
+}
+
+.All-ads4 {
+    display: flex;
+}
+
+.All-ads4 .ads4 {
+    display: flex;
+    overflow-x: hidden;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.All-ads4 .ads4 img {
+    width: 265px;
+    height: 375px;
+    border-radius: 20px;
+}
+
+.ads4 .right-arrow2 {
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50%;
+    padding-left: 40px;
+    position: relative;
+    right: 730px;
+    top: 165px;
+}
+
+.ads4 .right-arrow2 span {
+    color: black;
+    position: relative;
+    right: 20px;
+    top: 14px;
+    font-size: 30px;
+}
+
+.ADsDiv8 {
+    margin-bottom: 5px;
+}
+
+.ADsDiv8 .spanline5 {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.958);
+    font-size: 23px;
+    margin-bottom: 13px;
+    margin-top: 30px;
+}
+
+.All-ads5 {
+    display: flex;
+}
+
+.All-ads5 .ads5 {
+    display: flex;
+    overflow-x: hidden;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.All-ads5 .ads5 img {
+    width: 260px;
+    height: 135px;
+    border-radius: 20px;
+}
+
+.ads5 .right-arrow3 {
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50%;
+    padding-left: 40px;
+    position: relative;
+    right: 260px;
+    top: 40px;
+}
+
+.ads5 .right-arrow3 span {
+    color: black;
+    position: relative;
+    right: 20px;
+    top: 14px;
+    font-size: 30px;
+}
+
