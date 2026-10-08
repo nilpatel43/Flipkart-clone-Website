@@ -1,10 +1,13 @@
 body {
-    width: 78%;
-    /* border: 1px solid black; */
-    margin: auto;
-    /* height: 100vh; */
     font-family: Roboto, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
+
+#section1, #section2, #section3 {
+    width: 78%;
+    margin: auto;
+} 
 
 /* Header */
 
@@ -672,4 +675,128 @@ body {
 
 .Product1 .span3 b {
     color: rgb(19, 63, 185);
+}
+
+/*  Footer Section  */
+
+#footer .footDiv {
+    border-top: 1px solid rgb(225, 222, 222);
+    display: flex;
+    padding: 10px 15px;
+}
+
+.footDiv .spanline6 {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.836);
+    line-height: 30px;
+    letter-spacing: 0.5px;
+}
+
+.footDiv .symbol2 {
+    margin-left: auto;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.footDiv2 {
+    background-color: rgb(33, 33, 33);
+    display: flex;
+    padding: 42px 60px;
+}
+
+.footDiv2 .span4 {
+    color: rgb(135, 135, 135);
+    font-size: 12px;
+    display: flex;
+    padding-bottom: 12px;
+}
+
+.footDiv2 .span7 {
+    color: rgb(135, 135, 135);
+    font-size: 12px;
+    display: flex;
+    padding-bottom: 11px;
+    padding-top: 15px;
+}
+
+.images1 {
+    height: 24px;
+    width: 24px;
+    margin-right: 14px;
+}
+
+.images4 {
+    height: 24px;
+    width: 24px;
+}
+
+.footDiv2 .span5 {
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    display: block;
+}
+
+.footDiv2 .span6 {
+    color: rgba(255, 255, 255, 0.874);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    display: flex;
+}
+
+.about {
+    width: 267px;
+}
+
+.group {
+    width: 267px;
+}
+
+.help {
+    width: 267px;
+}
+
+.consumer {
+    width: 267px;
+}
+
+.mail {
+    width: 350px;
+    border-left: 1px solid rgb(69, 77, 94);
+    padding-left: 35px;
+}
+
+.address {
+    width: 330px;
+}
+
+.footDiv3 {
+    background-color: rgb(33, 33, 33);
+    border-top: 1px solid rgb(85, 85, 85);
+    padding: 23px 5px;
+    display: flex;
+    gap: 6px;
+}
+
+.footDiv3 div {
+    margin-left: 90px;
+}
+
+.footDiv3 span {
+    color: white;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+}
+
+.footDiv3 img {
+    height: 13px;
+    position: relative;
+    top: 2px;
+    right: 3px;
+}
+
+.footDiv3 .visa-cards {
+    height: 18px;
 }
