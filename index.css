@@ -374,18 +374,17 @@ body {
     width: 50px;
     background-color: white;
     border-radius: 50%;
-    padding-left: 35px;
+    padding-left: 36px;
     position: relative;
-    right: 380px;
+    right: 375px;
     top: 85px;
 }
 
 .All-ads .right-arrow span {
-    color: black;
+    color: rgba(0, 0, 0, 0.827);
     position: relative;
     right: 17px;
-    top: 10px;
-    /* padding: 10px; */
+    top: 5px;
     font-size: 30px;
 }
 
@@ -532,6 +531,25 @@ body {
     font-weight: bold;
 }
 
+.ADsDiv6 .arrow .arrow3 {
+    width: 40px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: white;
+    margin-left: 840px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ADsDiv6 .arrow .arrow3 span {
+    font-size: 30px;
+    color: black;
+    padding-bottom: 2px;
+    font-weight: bold;
+}
+
 .ADsDiv7 .spanline4 {
     font-weight: 600;
     color: rgba(0, 0, 0, 0.958);
@@ -562,17 +580,17 @@ body {
     width: 60px;
     background-color: white;
     border-radius: 50%;
-    padding-left: 40px;
+    padding-left: 45px;
     position: relative;
-    right: 730px;
+    right: 735px;
     top: 165px;
 }
 
 .ads4 .right-arrow2 span {
-    color: black;
+    color: rgba(0, 0, 0, 0.827);
     position: relative;
-    right: 20px;
-    top: 14px;
+    right: 22px;
+    top: 9px;
     font-size: 30px;
 }
 
@@ -610,17 +628,17 @@ body {
     width: 60px;
     background-color: white;
     border-radius: 50%;
-    padding-left: 40px;
+    padding-left: 43px;
     position: relative;
-    right: 260px;
+    right: 262px;
     top: 40px;
 }
 
 .ads5 .right-arrow3 span {
-    color: black;
+    color: rgba(0, 0, 0, 0.827);
     position: relative;
-    right: 20px;
-    top: 14px;
+    right: 21px;
+    top: 10px;
     font-size: 30px;
 }
 
