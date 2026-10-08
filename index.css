@@ -743,8 +743,14 @@ body {
     margin-right: 14px;
 }
 
-.images4 {
+.images3 {
     height: 24px;
+    width: 24px;
+    margin-right: 11px;
+}
+
+.images4 {
+    height: 21px;
     width: 24px;
 }
 
