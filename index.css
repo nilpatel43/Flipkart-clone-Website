@@ -317,6 +317,10 @@ body {
     display: block;
 }
 
+.fixed2 {
+    position: static;
+}
+
 /*  ADs Section  */
 
 #ADsDiv {
